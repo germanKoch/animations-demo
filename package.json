@@ -1,0 +1,24 @@
+{
+  "name": "animations-demo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/germanKoch/animations-demo#readme",
+  "bugs": {
+    "url": "https://github.com/germanKoch/animations-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germanKoch/animations-demo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node": "^23.9.0"
+  },
+  "devDependencies": {}
+}
