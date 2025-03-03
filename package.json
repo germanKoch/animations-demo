@@ -18,7 +18,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "node": "^23.9.0"
-  },
-  "devDependencies": {}
+    "@esotericsoftware/spine-canvas": "^4.2.74",
+    "@esotericsoftware/spine-canvaskit": "^4.2.74",
+    "@esotericsoftware/spine-core": "^4.2.74",
+    "@esotericsoftware/spine-pixi-v8": "^4.2.74",
+    "@esotericsoftware/spine-player": "^4.2.74",
+    "@esotericsoftware/spine-webgl": "^4.2.74",
+    "node": "^23.9.0",
+    "pixi.js": "^8.8.1"
+  }
 }
